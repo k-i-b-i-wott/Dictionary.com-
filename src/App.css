@@ -67,6 +67,9 @@ button{
   text-transform: capitalize;
     padding: 1rem;
 }
+.output h4{
+  color: #FC4100;
+}
 .output ul{
   display: flex;
   flex-direction: column;
