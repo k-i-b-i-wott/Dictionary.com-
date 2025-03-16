@@ -42,7 +42,7 @@ useEffect(() => {
     return;
   }
   dictionaryApi();
-}, [word]);
+}, []);
 
 const handleSubmit = (e) => {
   e.preventDefault();
